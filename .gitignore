@@ -105,3 +105,6 @@ venv.bak/
 
 basic.py
 
+
+# ignore everything in the statig/files folder
+static/files/*
